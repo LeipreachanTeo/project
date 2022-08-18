@@ -1,0 +1,15 @@
+/home/leipreachanteo/Desktop/Examples/Example003/bin/Debug/net6.0/Example003
+/home/leipreachanteo/Desktop/Examples/Example003/bin/Debug/net6.0/Example003.deps.json
+/home/leipreachanteo/Desktop/Examples/Example003/bin/Debug/net6.0/Example003.runtimeconfig.json
+/home/leipreachanteo/Desktop/Examples/Example003/bin/Debug/net6.0/Example003.dll
+/home/leipreachanteo/Desktop/Examples/Example003/bin/Debug/net6.0/Example003.pdb
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/Example003.csproj.AssemblyReference.cache
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/Example003.GeneratedMSBuildEditorConfig.editorconfig
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/Example003.AssemblyInfoInputs.cache
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/Example003.AssemblyInfo.cs
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/Example003.csproj.CoreCompileInputs.cache
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/Example003.dll
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/refint/Example003.dll
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/Example003.pdb
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/Example003.genruntimeconfig.cache
+/home/leipreachanteo/Desktop/Examples/Example003/obj/Debug/net6.0/ref/Example003.dll
